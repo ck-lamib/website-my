@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_my=self.webpackChunkwebsite_my||[]).push([[7335],{7337:t=>{t.exports=JSON.parse('{"title":"Algorithms","items":[{"title":"algorithmm1","permalink":"/algorithms/algorithms1"},{"title":"algorithmm2","permalink":"/algorithms/algorithms2"},{"title":"algorithmm3","permalink":"/algorithms/algorithms3"}]}')}}]);

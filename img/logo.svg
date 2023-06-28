@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<g transform="matrix(0.0883 0 0 -0.0883 489.8388 501.5852)" id="705902">
+<filter id="SVGID_955" y="-24.12%" height="148.24%" x="-20.85%" width="141.7%">
+	<feGaussianBlur in="SourceAlpha" stdDeviation="38.5"/>
+	<feOffset dx="14" dy="-100" result="oBlur"/>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in"/>
+	<feMerge>
+		<feMergeNode/>
+		<feMergeNode in="SourceGraphic"/>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(221,87,31); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_955);" transform=" translate(-5570, -2831.1026)" d="M 5310 4965 c -201 -25 -351 -64 -545 -142 c -336 -135 -630 -350 -849 -622 c -117 -145 -194 -263 -271 -416 l -61 -120 l -1692 -3 l -1692 -2 l 187 -235 l 188 -235 l 1438 0 l 1438 0 l -6 -37 c -3 -21 -8 -48 -11 -60 l -4 -23 l -1020 0 l -1020 0 l 187 -235 l 188 -235 l 832 0 l 833 0 l 4 -22 c 3 -13 7 -42 10 -65 l 6 -43 l -430 -2 l -430 -3 l 186 -232 l 186 -233 l 312 0 l 313 0 l 23 -52 c 190 -417 525 -778 928 -1001 c 577 -319 1292 -350 1898 -83 c 475 209 877 608 1094 1084 l 23 52 l 313 0 l 312 0 l 186 232 l 186 233 l -430 3 l -430 2 l 6 43 c 3 23 7 52 10 65 l 4 22 l 833 0 l 833 0 l 186 233 l 186 232 l -1019 3 l -1019 2 l -4 23 c -3 12 -8 39 -11 60 l -6 37 l 1438 0 l 1438 0 l 188 235 l 187 235 l -1692 2 l -1692 3 l -61 120 c -78 154 -154 271 -272 417 c -347 429 -867 707 -1435 768 c -128 13 -347 11 -478 -5 z m 505 -476 c 156 -21 349 -81 497 -155 c 717 -359 1076 -1152 878 -1935 c -100 -392 -383 -774 -733 -988 c -284 -173 -557 -251 -883 -251 c -336 0 -604 76 -890 251 c -352 215 -634 595 -734 988 c -148 586 12 1187 428 1608 c 298 300 652 462 1092 497 c 65 5 252 -3 345 -15 z" stroke-linecap="round"/>
+</g>
+<g transform="matrix(0.0883 0 0 -0.0883 487.5329 499.9795)" id="816622">
+<filter id="SVGID_956" y="-36.94%" height="173.88%" x="-27.53%" width="155.06%">
+	<feGaussianBlur in="SourceAlpha" stdDeviation="38.5"/>
+	<feOffset dx="14" dy="-100" result="oBlur"/>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in"/>
+	<feMerge>
+		<feMergeNode/>
+		<feMergeNode in="SourceGraphic"/>
+	</feMerge>
+</filter>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(212,83,28); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_956);" transform=" translate(-5540.5, -2742.8726)" d="M 5218 3259 c -109 -16 -207 -89 -255 -188 c -22 -46 -27 -70 -27 -136 c 0 -70 4 -87 30 -135 c 22 -42 40 -59 76 -78 c 89 -45 225 -39 285 12 c 38 33 22 44 -19 15 c -28 -20 -45 -24 -109 -24 c -66 0 -81 4 -117 28 c -68 45 -107 147 -83 220 c 14 42 87 112 139 134 c 46 20 136 20 182 1 c 117 -49 191 -240 146 -376 c -24 -73 -83 -132 -212 -218 c -103 -68 -132 -94 -105 -94 c 5 0 22 5 37 10 c 42 16 81 -3 158 -75 c 42 -39 96 -78 135 -97 c 58 -28 79 -33 166 -36 c 88 -4 110 -1 174 21 c 94 33 171 80 236 142 c 71 70 90 113 90 205 c 0 64 -4 82 -27 122 c -34 57 -90 105 -140 120 c -21 6 -38 17 -38 25 c 0 7 38 31 85 52 c 78 36 107 61 71 61 c -25 0 -44 27 -67 97 c -29 91 -65 142 -118 170 c -49 26 -125 31 -182 12 c -45 -15 -106 -74 -120 -116 c -10 -30 -39 -47 -39 -23 c 0 5 -17 28 -37 51 c -56 61 -117 89 -233 104 c -14 1 -51 -1 -82 -6 z m 575 -109 c 14 -16 33 -51 42 -77 c 32 -88 64 -153 74 -153 c 6 0 11 -7 11 -16 c 0 -10 -48 -38 -140 -82 c -77 -36 -139 -71 -137 -76 c 2 -6 26 -12 53 -13 c 89 -3 136 -13 185 -40 c 156 -85 174 -286 33 -369 c -38 -23 -53 -26 -107 -22 c -82 5 -152 40 -250 123 c -96 82 -145 115 -168 115 c -29 0 -22 12 27 50 c 57 44 161 164 182 210 c 11 24 18 80 22 179 l 6 143 l 32 29 c 45 41 101 40 135 -1 z" stroke-linecap="round"/>
+</g>
+</svg>

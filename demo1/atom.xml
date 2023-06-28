@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bimalkhatri.com.np/demo1</id>
+    <title>Bimal khatri Blog</title>
+    <updated>2022-08-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bimalkhatri.com.np/demo1"/>
+    <subtitle>Bimal khatri Blog</subtitle>
+    <icon>https://bimalkhatri.com.np/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Demo]]></title>
+        <id>https://bimalkhatri.com.np/demo1/demo</id>
+        <link href="https://bimalkhatri.com.np/demo1/demo"/>
+        <updated>2022-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Only shown this much.</p>]]></content>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
