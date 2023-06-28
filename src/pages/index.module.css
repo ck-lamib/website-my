@@ -1,0 +1,116 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.heroBg {
+  background-image: url('../data/10.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 95vh;
+
+}
+
+
+
+/* for contact */
+.contactheroBg {
+  background-image: url('../data/stone.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+
+}
+.contactheroBanner {
+  padding: 0;
+  text-align: center;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+.contactImage {
+  height: 60px;
+  width: 60px;
+  display: flex;
+  padding: 0rem;
+  margin-left: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+/* ends here */
+
+/* for blogstart */
+.blogstartheroBg {
+  background-image: url('../data/blogstart.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+
+}
+.blogstartheroBanner {
+  padding: 0;
+  text-align: center;
+  position: relative;
+  /* overflow: hidden; */
+}
+
+.blogstartImage {
+  height: 60px;
+  width: 60px;
+  display: flex;
+  padding: 0rem;
+  margin-left: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+/* ends here */
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.size{
+  width: 200px;
+}
+
+.skills {
+  padding: 2rem 0;
+}
+
+.skillImage {
+  height: 120px;
+  width: 120px;
+  display: flex;
+  padding: 0 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.section:nth-child(2n) {
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+.cta {
+  padding: 3rem 0;
+}
+
+/* .myImage {
+  width: 100%;
+  height: 20%;
+} */
+@media screen and (max-width: 450px) {
+  .heroBg {
+    background-image: url('../data/102.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 95vh;
+  
+  }
+}

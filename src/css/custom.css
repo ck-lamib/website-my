@@ -1,0 +1,176 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #fa3504;
+  --ifm-color-primary-dark: #e13004;
+  --ifm-color-primary-darker: #d52d03;
+  --ifm-color-primary-darkest: #af2503;
+  --ifm-color-primary-light: #fb491c;
+  --ifm-color-primary-lighter: #fc5329;
+  --ifm-color-primary-lightest: #fc714e;
+  /* for heding top text */
+  --ifm-hero-text-color: var(--ifm-color-emphasis-400);
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #f5580a;
+  --ifm-color-primary-dark: #dc4f09;
+  --ifm-color-primary-darker: #d04b09;
+  --ifm-color-primary-darkest: #ab3e07;
+  --ifm-color-primary-light: #f66922;
+  --ifm-color-primary-lighter: #f7712f;
+  --ifm-color-primary-lightest: #f88a54;
+  --ifm-hero-text-color: var(--ifm-color-emphasis-800);
+  /* --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3); */
+  /* --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3); */
+}
+
+
+/* center the content of footer */
+.col.footer__col{
+  text-align: center;
+}
+
+/* for vertical scroll */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+/* for skill icon */
+.row--align-center {
+  align-items: center;
+  justify-content: center;
+}
+
+
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 95vh;
+  width: 200%;
+  /* background-color: rgba(1,1,1,0.6); */
+  background-color: rgba(34, 31, 31, 0.6);
+  /* background-color: rgba(52, 49, 49, 0.5); */
+  /* background-color: rgba(182, 187, 187, 0.6); */
+}
+
+
+
+html[data-theme='dark'] .overlay {
+  background-color: rgba(0,0,0,0.6);
+}
+
+
+/* for contact  */
+.contactoverlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: 200%;
+  background-color: rgba(1,1,1,0.6);
+  /* background-color: rgba(52, 49, 49, 0.5); */
+  /* background-color: rgba(182, 187, 187, 0.6); */
+}
+html[data-theme='dark'] .contactoverlay {
+  background-color: rgba(0,0,0,0.6);
+}
+
+@media screen and (min-width: 750px) {
+  .contactoverlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    width: 200%;
+    background-color: rgba(1,1,1,0.6);
+    /* background-color: rgba(52, 49, 49, 0.5); */
+    /* background-color: rgba(182, 187, 187, 0.6); */
+  }
+}
+/* ends here */
+
+
+/* for blog  */
+.blogstartoverlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: 200%;
+  /* background-color: rgba(1,1,1,0.6); */
+  /* background-color: rgba(52, 49, 49, 0.5); */
+  /* background-color: rgba(182, 187, 187, 0.6); */
+}
+html[data-theme='dark'] .blogstartoverlay {
+  background-color: rgba(82, 78, 78, 0);
+}
+
+@media screen and (min-width: 750px) {
+  .blogstartoverlay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    width: 200%;
+    /* background-color: rgba(1,1,1,0.6); */
+    /* background-color: rgba(52, 49, 49, 0.5); */
+    background-color: rgba(80, 82, 82, 0.27);
+  }
+}
+/* ends here */
+
+
+/* contact links */
+.contactLink{
+  /* for link */
+  --ifm-link-color: var(--ifm-color-emphasis-900);
+}
+
+/* for project */
+html[data-theme='light'] .projectHero {
+  color: #000;
+}
+
+.projectSection:nth-child(2n+1) {
+  background-color: var(--ifm-color-emphasis-300);
+}
+
+.projectCard{
+
+  --ifm-global-shadow-lw: 0 1px 2px 0 rgb(0 0 0 / 33%);
+  transition: var(--ifm-transition-fast);
+}
+
+  .card2:hover {
+    transition: all 0.1s ease-in-out;
+    box-shadow: 10px 9px 15px 5px rgba(38, 38, 38, 0.2);
+  }
+
+  html[data-theme='dark'] .card2:hover {
+    transition: all 0.1s ease-in;
+    box-shadow: 10px 12px 15px 5px rgba(255, 255, 255, 0.287), -1px -2px 8px 6px rgba(255, 255, 255, 0.377);
+  }
+  /* ends here  */
+
+  @media screen and (min-width: 630px) {
+    .projectDpadding {
+        padding: 0px 12rem;
+    }
+  }
+
+  /* for blog page */
+.mainWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-Layout-styles-module {
+  flex: 1 0 auto;
+  background-color: var(--ifm-color-emphasis-100);
+}
